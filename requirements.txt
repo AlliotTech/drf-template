@@ -13,7 +13,7 @@ django-redis==5.4.0
 django-simpleui==2023.12.12
 djangorestframework==3.15.1
 djangorestframework-simplejwt==5.3.1
-gunicorn==21.2.0
+gunicorn==22.0.0
 h11==0.14.0
 httpcore==1.0.4
 httpx==0.27.0
