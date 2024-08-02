@@ -8,7 +8,7 @@ Django==5.0.3
 django-apscheduler==0.6.2
 django-cors-headers==4.3.1
 django-environ==0.11.2
-django-filter==24.1
+django-filter==24.3
 django-redis==5.4.0
 django-simpleui==2023.12.12
 djangorestframework==3.15.1
